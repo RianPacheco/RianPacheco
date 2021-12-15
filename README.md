@@ -2,7 +2,7 @@
 
 *👽 Estou Estudando Front-End.
 
-*🧠 Pronome Ele/He.
+*🧠 Pronome Ele/Dele.
 
 *🤩 Futuro Programador Full-Stack.
 
