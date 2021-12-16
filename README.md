@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/RianPacheco">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RianPacheco&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="320px" width="320px" align="right" alt="Computador iuriCode">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="340px" width="340px" align="right" alt="Computador iuriCode">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
