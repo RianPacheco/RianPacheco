@@ -6,14 +6,6 @@
 
 *🤩 Futuro Programador Full-Stack.
 
-
-<img src="https://komarev.com/ghpvc/?username=ArthurHydr&color=blueviolet&style=flat">
-<div align='center'>
-    <a href="https://github.com/ArthurHydr">
-    <img src='https://github.com/dotOttoni/ArthurHydr/blob/main/hacker-25897.png' height='128px' weidth'128px' target="_blank"><br>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;My+name+is+Rian Pacheco%2C+and+I'm+a+Pentester">
-</div>
-
 <div align="center">
   <a href="https://github.com/RianPacheco">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RianPacheco&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
