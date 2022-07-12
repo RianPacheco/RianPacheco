@@ -4,7 +4,7 @@
 
 * 🤩 Futuro Programador Full-Stack.
 
-*
+* 🏋️‍♀️ Seguindo o legado do zyzz⚡🔱
 
 <div align="center">
   <a href="https://github.com/RianPacheco">
