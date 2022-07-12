@@ -18,8 +18,7 @@
   ##
   
   ##
-  
-  ##
+ 
   <!-- ------------------ Linguagens e sistema operacional que uso -->
  
 <div align="center" style="display: inline_block"><br>
