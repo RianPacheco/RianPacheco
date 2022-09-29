@@ -14,10 +14,10 @@
   <!-- ------------------ 💯Linguagens e sistema operacional que uso -->
 <div align="center" style="display: inline_block"><br>
   <h3 align="left">Linguagens e sistema operacional:</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="SO" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg" />
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg" />
     <img align="center" alt="SO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
      
   ##
