@@ -1,6 +1,6 @@
 ## Salveee,Sou Rian Pacheco
 
-* 👽 Estudando Desenvolvimento Front-End.
+* 👽 Estudando Desenvolvimento Front-End e Moblie.
 
 * 🤩 Futuro Programador Full-Stack.
 
