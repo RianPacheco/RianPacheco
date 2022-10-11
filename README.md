@@ -1,8 +1,6 @@
-## Salveee,Sou Rian Pacheco
+## Oláa, Sou Rian Pacheco
 
 * 👽 Estudando Desenvolvimento Front-End e Mobile.
-
-* 🤩 Futuro Programador Full-Stack.
 
 * 🏋️‍♀️ Seguindo o legado do zyzz⚡🔱
 
