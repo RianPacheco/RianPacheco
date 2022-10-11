@@ -2,6 +2,8 @@
 
 * 👽 Estudando Desenvolvimento Front-End e Mobile.
 
+* 🚀 Tenho 15 anos
+
 * 🏋️‍♀️ Seguindo o legado do zyzz⚡🔱
 
 <div align="center">
