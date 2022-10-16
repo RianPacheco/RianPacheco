@@ -8,6 +8,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianPacheco&layout=compact&hide_border=true&title_color=0284c7&text_color=0284c7&bg_color=0d1117" />
 </div>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RianPacheco&theme=windows-dark" alt="RianPacheco" /></p>
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=RianPacheco&theme=gotham&hide_border=true&area=true)
 
 <p align="center">
