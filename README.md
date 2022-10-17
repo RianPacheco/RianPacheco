@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=150&section=header&text=Rian+Pacheco&fontSize=30&fontColor=f3f3f3&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=150&section=header&text=Rian+Pacheco+🚀&fontSize=30&fontColor=f3f3f3&animation=twinkling&fontAlignY=35"/>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0284c7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Rian+Pacheco;Eu+Tenho+15+Anos;Eu+Sou+De+São+Paulo,+SP;Eu+Sou+Desenvolvedor+Web+e+Mobile;Seja+Bem+Vindo+(a)!+:%29)](https://git.io/typing-svg)
 
