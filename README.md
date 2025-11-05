@@ -43,7 +43,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RianPacheco}/count.svg" /></p> 
 <br></div>
  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=120&section=footer"/>
+<img src="https://ghtb-counter.vercel.app/api/counter?username=Rian%20Pacheco&label=Views&color=f29f05&labelColor=ffffff&labelBgColor=e6990a&countColor=ffffff&style=for-the-badge" alt="Views" />
  
 </div>
 
